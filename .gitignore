@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+ 
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
