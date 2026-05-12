@@ -85,9 +85,7 @@ python main.py
 
 ---
 
-## Output Screenshot
 
-![Program Output](screenshots/output.png)
 
 
 
